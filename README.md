@@ -78,4 +78,4 @@
 
 ---
 
-Built with ❤️ for the Future of B2B Sales.
+Built by me <>
