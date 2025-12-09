@@ -2,12 +2,13 @@
 
 **The Bid Executor** is a next-generation B2B sales automation platform designed specifically for the **Wires & Cables industry**. It leverages multi-agent AI to autonomously analyze Request for Proposals (RFPs), detect technical mismatches, calculate commercial risks, and generate "Made-to-Order" (MTO) engineering requests in real-time.
 
-![Dashboard Preview](https://placehold.co/1200x600/1a1a1a/ffffff?text=RFP+Engine+Dashboard)
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/9a1c7fda-3819-4916-b3f6-8cdbd9e91310" />
 
 ## ✨ Key Features
 
 ### 🤖 Multi-Agent Simulation
 - **Sales Agent:** Ingests RFP documents, summarizes key requirements, and detects commercial terms (e.g., Payment Terms, Liquidated Damages).
+- **Summary Agent:** Digest the full documentation and generate a precise "Mission Brief" of the project scope and timelines.
 - **Technical Agent:** Performs deep-dive spec comparison (e.g., Voltage, Conductor Material) and calculates a **Spec Match %** (e.g., "67% Match").
 - **Pricing Agent:** Auto-calculates base costs, adds MTO premiums, and estimates testing/compliance fees in **INR (₹)**.
 
